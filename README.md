@@ -1,6 +1,6 @@
 # PeerPrep
 
-![PeerPrep_quick_demo](https://user-images.githubusercontent.com/60286063/201688988-51c4d2d3-4cad-4959-ad22-356ccb0e70ec.gif)
+![PeerPrep_quick_demo](https://user-images.githubusercontent.com/60286063/201692839-981cd139-efcf-440f-ba5b-91e8e16a8f8b.gif)
 
 PeerPrep a web application that seeks to help students better prepare themselves for the highly challenging technical interviews. 
 
